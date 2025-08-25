@@ -1,12 +1,28 @@
 \# Binance Futures GUI Bot
 
-بوت للتداول الآلي في Binance Futures باستخدام Tkinter GUI
 
-\- استراتيجيات: EMA/RSI, Mean Reversion, Breakout
 
-\- Hedge Mode
+This project is a graphical user interface (GUI) bot for Binance Futures trading.
 
-\- OCO محاكى
+
+
+\## Features
+
+\- Automated trading
+
+\- Real-time market data
+
+\- User-friendly GUI
+
+
+
+\## Installation
+
+1\. Clone the repository:
+
+&nbsp;  ```bash
+
+&nbsp;  git clone https://github.com/YourUserName/binance\_futures\_gui\_bot.git
 
 
 
